@@ -1,0 +1,9 @@
+2022-06-26 22:47:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ENDERECO" not found (this database is empty); SQL statement:
+select endereco0_.cep as cep1_2_0_, endereco0_.bairro as bairro2_2_0_, endereco0_.complemento as compleme3_2_0_, endereco0_.ddd as ddd4_2_0_, endereco0_.localidade as localida5_2_0_, endereco0_.logradouro as logradou6_2_0_, endereco0_.uf as uf7_2_0_ from endereco endereco0_ where endereco0_.cep=? [42104-214]
+2022-06-26 22:47:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ENDERECO" not found (this database is empty); SQL statement:
+select endereco0_.cep as cep1_2_0_, endereco0_.bairro as bairro2_2_0_, endereco0_.complemento as compleme3_2_0_, endereco0_.ddd as ddd4_2_0_, endereco0_.localidade as localida5_2_0_, endereco0_.logradouro as logradou6_2_0_, endereco0_.uf as uf7_2_0_ from endereco endereco0_ where endereco0_.cep=? [42104-214]
+2022-06-26 22:49:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ENDERECO" not found (this database is empty); SQL statement:
+select endereco0_.cep as cep1_2_0_, endereco0_.bairro as bairro2_2_0_, endereco0_.complemento as compleme3_2_0_, endereco0_.ddd as ddd4_2_0_, endereco0_.localidade as localida5_2_0_, endereco0_.logradouro as logradou6_2_0_, endereco0_.uf as uf7_2_0_ from endereco endereco0_ where endereco0_.cep=? [42104-214]
